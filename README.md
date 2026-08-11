@@ -14,6 +14,7 @@ LEETCODE PROBLEMS
 | [0485-max-consecutive-ones](https://github.com/Preetsavaliya111/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/Preetsavaliya111/DSA-/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Preetsavaliya111/DSA-/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ LEETCODE PROBLEMS
 | [0240-search-a-2d-matrix-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Preetsavaliya111/DSA-/tree/master/0278-first-bad-version) |
 | [0875-koko-eating-bananas](https://github.com/Preetsavaliya111/DSA-/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -58,4 +60,12 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Preetsavaliya111/DSA-/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
