@@ -5,6 +5,7 @@ LEETCODE PROBLEMS
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Preetsavaliya111/DSA-/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Preetsavaliya111/DSA-/tree/master/0042-trapping-rain-water) |
@@ -51,6 +52,7 @@ LEETCODE PROBLEMS
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Preetsavaliya111/DSA-/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Preetsavaliya111/DSA-/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -68,4 +70,8 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Preetsavaliya111/DSA-/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
