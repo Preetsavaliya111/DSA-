@@ -79,4 +79,8 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Preetsavaliya111/DSA-/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Preetsavaliya111/DSA-/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
