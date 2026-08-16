@@ -13,6 +13,7 @@ LEETCODE PROBLEMS
 | [0136-single-number](https://github.com/Preetsavaliya111/DSA-/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Preetsavaliya111/DSA-/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Preetsavaliya111/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/Preetsavaliya111/DSA-/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Preetsavaliya111/DSA-/tree/master/0875-koko-eating-bananas) |
@@ -26,6 +27,7 @@ LEETCODE PROBLEMS
 | [0162-find-peak-element](https://github.com/Preetsavaliya111/DSA-/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Preetsavaliya111/DSA-/tree/master/0278-first-bad-version) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Preetsavaliya111/DSA-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
@@ -46,6 +48,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +78,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Preetsavaliya111/DSA-/tree/master/0016-3sum-closest) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,4 +87,8 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Preetsavaliya111/DSA-/tree/master/0172-factorial-trailing-zeroes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
