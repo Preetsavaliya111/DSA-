@@ -28,6 +28,7 @@ LEETCODE PROBLEMS
 | [0240-search-a-2d-matrix-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Preetsavaliya111/DSA-/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Preetsavaliya111/DSA-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0875-koko-eating-bananas](https://github.com/Preetsavaliya111/DSA-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
@@ -87,6 +88,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Preetsavaliya111/DSA-/tree/master/0172-factorial-trailing-zeroes) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Preetsavaliya111/DSA-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
