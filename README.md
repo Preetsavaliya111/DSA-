@@ -64,6 +64,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Preetsavaliya111/DSA-/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Preetsavaliya111/DSA-/tree/master/0044-wildcard-matching) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -106,4 +107,16 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Preetsavaliya111/DSA-/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Preetsavaliya111/DSA-/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Preetsavaliya111/DSA-/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
