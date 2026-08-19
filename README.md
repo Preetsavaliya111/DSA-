@@ -14,6 +14,7 @@ LEETCODE PROBLEMS
 | [0162-find-peak-element](https://github.com/Preetsavaliya111/DSA-/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Preetsavaliya111/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/Preetsavaliya111/DSA-/tree/master/0735-asteroid-collision) |
@@ -56,6 +57,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +86,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0016-3sum-closest](https://github.com/Preetsavaliya111/DSA-/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -98,11 +101,13 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -127,4 +132,13 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
