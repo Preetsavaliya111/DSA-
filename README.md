@@ -17,6 +17,7 @@ LEETCODE PROBLEMS
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Preetsavaliya111/DSA-/tree/master/0485-max-consecutive-ones) |
+| [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Preetsavaliya111/DSA-/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Preetsavaliya111/DSA-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
@@ -88,6 +89,7 @@ LEETCODE PROBLEMS
 | [0215-kth-largest-element-in-an-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,11 +105,13 @@ LEETCODE PROBLEMS
 | [0215-kth-largest-element-in-an-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 ## Linked List
 |  |
 | ------- |
@@ -120,6 +124,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Preetsavaliya111/DSA-/tree/master/0044-wildcard-matching) |
+| [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 ## Greedy
 |  |
 | ------- |
@@ -137,8 +142,14 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
