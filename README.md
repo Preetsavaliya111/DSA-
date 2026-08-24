@@ -98,6 +98,7 @@ LEETCODE PROBLEMS
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Preetsavaliya111/DSA-/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Preetsavaliya111/DSA-/tree/master/0172-factorial-trailing-zeroes) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Preetsavaliya111/DSA-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Heap (Priority Queue)
