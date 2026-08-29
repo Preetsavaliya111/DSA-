@@ -21,6 +21,7 @@ LEETCODE PROBLEMS
 | [0735-asteroid-collision](https://github.com/Preetsavaliya111/DSA-/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Preetsavaliya111/DSA-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Preetsavaliya111/DSA-/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ LEETCODE PROBLEMS
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Preetsavaliya111/DSA-/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/Preetsavaliya111/DSA-/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
