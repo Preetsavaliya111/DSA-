@@ -91,6 +91,7 @@ LEETCODE PROBLEMS
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Preetsavaliya111/DSA-/tree/master/0767-reorganize-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,12 +109,14 @@ LEETCODE PROBLEMS
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Preetsavaliya111/DSA-/tree/master/0767-reorganize-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Preetsavaliya111/DSA-/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
 | ------- |
@@ -127,10 +130,12 @@ LEETCODE PROBLEMS
 | ------- |
 | [0044-wildcard-matching](https://github.com/Preetsavaliya111/DSA-/tree/master/0044-wildcard-matching) |
 | [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Preetsavaliya111/DSA-/tree/master/0767-reorganize-string) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Preetsavaliya111/DSA-/tree/master/0044-wildcard-matching) |
+| [0767-reorganize-string](https://github.com/Preetsavaliya111/DSA-/tree/master/0767-reorganize-string) |
 ## Recursion
 |  |
 | ------- |
@@ -150,6 +155,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Preetsavaliya111/DSA-/tree/master/0767-reorganize-string) |
 ## Trie
 |  |
 | ------- |
