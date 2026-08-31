@@ -60,6 +60,7 @@ LEETCODE PROBLEMS
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Preetsavaliya111/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
@@ -110,6 +111,7 @@ LEETCODE PROBLEMS
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Preetsavaliya111/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -128,6 +130,7 @@ LEETCODE PROBLEMS
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Preetsavaliya111/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -174,4 +177,12 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Preetsavaliya111/DSA-/tree/master/0155-min-stack) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Preetsavaliya111/DSA-/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Preetsavaliya111/DSA-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
