@@ -18,6 +18,7 @@ LEETCODE PROBLEMS
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Preetsavaliya111/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/Preetsavaliya111/DSA-/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Preetsavaliya111/DSA-/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Preetsavaliya111/DSA-/tree/master/0735-asteroid-collision) |
@@ -95,6 +96,7 @@ LEETCODE PROBLEMS
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Preetsavaliya111/DSA-/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Preetsavaliya111/DSA-/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Preetsavaliya111/DSA-/tree/master/0767-reorganize-string) |
@@ -116,6 +118,7 @@ LEETCODE PROBLEMS
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Preetsavaliya111/DSA-/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Preetsavaliya111/DSA-/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Preetsavaliya111/DSA-/tree/master/0767-reorganize-string) |
@@ -125,6 +128,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Preetsavaliya111/DSA-/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Preetsavaliya111/DSA-/tree/master/0767-reorganize-string) |
 ## Linked List
@@ -147,6 +151,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0044-wildcard-matching](https://github.com/Preetsavaliya111/DSA-/tree/master/0044-wildcard-matching) |
 | [0502-ipo](https://github.com/Preetsavaliya111/DSA-/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Preetsavaliya111/DSA-/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/Preetsavaliya111/DSA-/tree/master/0767-reorganize-string) |
 ## Recursion
@@ -167,6 +172,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Preetsavaliya111/DSA-/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Preetsavaliya111/DSA-/tree/master/0767-reorganize-string) |
 ## Trie
