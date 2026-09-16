@@ -76,6 +76,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Preetsavaliya111/DSA-/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Preetsavaliya111/DSA-/tree/master/0044-wildcard-matching) |
+| [0509-fibonacci-number](https://github.com/Preetsavaliya111/DSA-/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -109,6 +110,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0007-reverse-integer](https://github.com/Preetsavaliya111/DSA-/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Preetsavaliya111/DSA-/tree/master/0172-factorial-trailing-zeroes) |
+| [0509-fibonacci-number](https://github.com/Preetsavaliya111/DSA-/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Preetsavaliya111/DSA-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Heap (Priority Queue)
 |  |
@@ -158,6 +160,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Preetsavaliya111/DSA-/tree/master/0044-wildcard-matching) |
+| [0509-fibonacci-number](https://github.com/Preetsavaliya111/DSA-/tree/master/0509-fibonacci-number) |
 ## Quickselect
 |  |
 | ------- |
@@ -191,4 +194,8 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Preetsavaliya111/DSA-/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Preetsavaliya111/DSA-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
