@@ -74,6 +74,7 @@ LEETCODE PROBLEMS
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Preetsavaliya111/DSA-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Preetsavaliya111/DSA-/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Preetsavaliya111/DSA-/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/Preetsavaliya111/DSA-/tree/master/0509-fibonacci-number) |
@@ -145,6 +146,7 @@ LEETCODE PROBLEMS
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Preetsavaliya111/DSA-/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Preetsavaliya111/DSA-/tree/master/0044-wildcard-matching) |
 | [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Preetsavaliya111/DSA-/tree/master/0767-reorganize-string) |
@@ -198,4 +200,12 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Preetsavaliya111/DSA-/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Preetsavaliya111/DSA-/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Preetsavaliya111/DSA-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
