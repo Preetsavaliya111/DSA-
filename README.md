@@ -43,6 +43,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Preetsavaliya111/DSA-/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Preetsavaliya111/DSA-/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Preetsavaliya111/DSA-/tree/master/0735-asteroid-collision) |
 ## Simulation
@@ -213,4 +214,16 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Preetsavaliya111/DSA-/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
