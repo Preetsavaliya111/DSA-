@@ -227,6 +227,7 @@ LEETCODE PROBLEMS
 | [0144-binary-tree-preorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -247,6 +248,7 @@ LEETCODE PROBLEMS
 | [0144-binary-tree-preorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -262,4 +264,8 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
