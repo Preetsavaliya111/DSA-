@@ -26,6 +26,7 @@ LEETCODE PROBLEMS
 | [0875-koko-eating-bananas](https://github.com/Preetsavaliya111/DSA-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Preetsavaliya111/DSA-/tree/master/1046-last-stone-weight) |
+| [1652-defuse-the-bomb](https://github.com/Preetsavaliya111/DSA-/tree/master/1652-defuse-the-bomb) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [1652-defuse-the-bomb](https://github.com/Preetsavaliya111/DSA-/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
