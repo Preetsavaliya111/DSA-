@@ -22,6 +22,7 @@ LEETCODE PROBLEMS
 | [0621-task-scheduler](https://github.com/Preetsavaliya111/DSA-/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/Preetsavaliya111/DSA-/tree/master/0692-top-k-frequent-words) |
+| [0713-subarray-product-less-than-k](https://github.com/Preetsavaliya111/DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Preetsavaliya111/DSA-/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Preetsavaliya111/DSA-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
@@ -38,6 +39,7 @@ LEETCODE PROBLEMS
 | [0278-first-bad-version](https://github.com/Preetsavaliya111/DSA-/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Preetsavaliya111/DSA-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0713-subarray-product-less-than-k](https://github.com/Preetsavaliya111/DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Preetsavaliya111/DSA-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
@@ -90,11 +92,13 @@ LEETCODE PROBLEMS
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Preetsavaliya111/DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/Preetsavaliya111/DSA-/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Preetsavaliya111/DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Preetsavaliya111/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
