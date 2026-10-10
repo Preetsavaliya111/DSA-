@@ -27,7 +27,7 @@ public:
         }
     }
 
-    int getNextsmall(){
+    int getsmall(){
         TreeNode* node = asc.top();
         asc.pop();
 
@@ -36,7 +36,7 @@ public:
         return node->val;
     }
 
-    int getNextbig(){
+    int getbig(){
         TreeNode* node = dsc.top();
         dsc.pop();
 
@@ -52,15 +52,15 @@ public:
         pushLeft(root);
         pushRight(root);
 
-        int left = getNextsmall();
-        int right = getNextbig();
+        int left = getsmall();
+        int right = getbig();
 
         while(left < right){
             int sum = left + right;
 
             if(sum == k)return true;
-            if(sum < k) left = getNextsmall();
-            else right = getNextbig();
+            if(sum < k) left = getsmall();
+            else right = getbig();
         }
 
         return false;
