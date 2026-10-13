@@ -86,6 +86,7 @@ LEETCODE PROBLEMS
 | [0042-trapping-rain-water](https://github.com/Preetsavaliya111/DSA-/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Preetsavaliya111/DSA-/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/Preetsavaliya111/DSA-/tree/master/0509-fibonacci-number) |
+| [0799-champagne-tower](https://github.com/Preetsavaliya111/DSA-/tree/master/0799-champagne-tower) |
 ## Monotonic Stack
 |  |
 | ------- |
