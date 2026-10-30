@@ -11,6 +11,7 @@ LEETCODE PROBLEMS
 | [0039-combination-sum](https://github.com/Preetsavaliya111/DSA-/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Preetsavaliya111/DSA-/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0074-search-a-2d-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/Preetsavaliya111/DSA-/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Preetsavaliya111/DSA-/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -69,6 +70,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Preetsavaliya111/DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
@@ -142,6 +144,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Preetsavaliya111/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Preetsavaliya111/DSA-/tree/master/0621-task-scheduler) |
@@ -236,6 +239,7 @@ LEETCODE PROBLEMS
 | [0101-symmetric-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Preetsavaliya111/DSA-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Preetsavaliya111/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -274,6 +278,7 @@ LEETCODE PROBLEMS
 | [0101-symmetric-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Preetsavaliya111/DSA-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Preetsavaliya111/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
