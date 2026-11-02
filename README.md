@@ -13,6 +13,7 @@ LEETCODE PROBLEMS
 | [0074-search-a-2d-matrix](https://github.com/Preetsavaliya111/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Preetsavaliya111/DSA-/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Preetsavaliya111/DSA-/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -73,6 +74,7 @@ LEETCODE PROBLEMS
 | [0023-merge-k-sorted-lists](https://github.com/Preetsavaliya111/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Preetsavaliya111/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Preetsavaliya111/DSA-/tree/master/0347-top-k-frequent-elements) |
@@ -244,6 +246,7 @@ LEETCODE PROBLEMS
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Preetsavaliya111/DSA-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Preetsavaliya111/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -284,6 +287,7 @@ LEETCODE PROBLEMS
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Preetsavaliya111/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Preetsavaliya111/DSA-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Preetsavaliya111/DSA-/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Preetsavaliya111/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -320,6 +324,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Preetsavaliya111/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Preetsavaliya111/DSA-/tree/master/0700-search-in-a-binary-search-tree) |
